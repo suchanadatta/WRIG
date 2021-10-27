@@ -21,7 +21,6 @@ conda 4.8.2
 python 3.7.9
 numpy 1.19.4
 keras 2.3.0
-
 ````````````````````````````````````````````
 ## Guide to use
 **Step-1:** Download TREC-Robust [java index and word vectors](https://drive.google.com/drive/folders/13k0AFcIemmtBvBpaBCyJR7ZYUIoRf2Kx?usp=sharing) here.
