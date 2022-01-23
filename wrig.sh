@@ -139,19 +139,3 @@ echo "#######################################################################"
 cd ../wrig/
 
 python3 wrig.py <reranked file> <query variants based LM reranked file> <ground truth .AP file> <res file path> <no. of top documents retrieved by initial query in the initial.res file> <no. of top documents retrieved by query variant in the variant.res file> <no. of top scores to be considered for each variant> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
